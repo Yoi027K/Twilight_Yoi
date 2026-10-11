@@ -53,8 +53,8 @@ const adapter = process.env.GITHUB_ACTIONS
 
 // Ref: https://astro.build/config
 export default defineConfig({
-    site: siteConfig.siteURL,
-    base: "/",
+    site: https://Yoi027K.github.io,
+    base: "/Twilight_Yoi",
     trailingSlash: "always",
     adapter: adapter,
     integrations: [
